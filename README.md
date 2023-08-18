@@ -7,3 +7,6 @@ go install
 ```bash
 isup www.google.com
 ```
+
+## Download
+Select compiled version from dist
