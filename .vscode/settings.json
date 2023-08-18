@@ -1,0 +1,5 @@
+{
+    "go.toolsEnvVars": {
+        "GOROOT": "/opt/homebrew/opt/go/libexec"
+    }
+}
