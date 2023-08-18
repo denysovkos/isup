@@ -9,4 +9,4 @@ isup www.google.com
 ```
 
 ## Download
-Select compiled version from dist
+Select compiled version from dist (release)
