@@ -1,6 +1,6 @@
-##isup - Domain Reachability Verifier
+## IsUp - Domain Reachability Verifier
 
-The *isup* application is a simple command-line tool that allows you to verify whether a domain is reachable or not using the isup command. It performs DNS record checks, retrieves the IP address associated with the domain, and then determines if the domain is reachable from your network.
+The **isup** application is a simple command-line tool that allows you to verify whether a domain is reachable or not using the isup command. It performs DNS record checks, retrieves the IP address associated with the domain, and then determines if the domain is reachable from your network.
 
 This tool is particularly useful for network administrators, developers, and anyone who needs to quickly check if a specific domain is accessible. Whether you're troubleshooting connectivity issues, testing your own domains, or monitoring network health, isup provides a straightforward solution.
 
