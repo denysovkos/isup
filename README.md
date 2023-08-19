@@ -4,6 +4,10 @@ The **isup** application is a simple command-line tool that allows you to verify
 
 This tool is particularly useful for network administrators, developers, and anyone who needs to quickly check if a specific domain is accessible. Whether you're troubleshooting connectivity issues, testing your own domains, or monitoring network health, isup provides a straightforward solution.
 
+## Releases
+
+Executable binaries for different platforms are available in the [Releases](https://github.com/denysovkos/isup/releases) section. You can find precompiled binaries for easy installation on your system.
+
 ## Installation
 
 Follow the steps below to install the isup application from the source repository:
